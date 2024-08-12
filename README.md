@@ -4,7 +4,7 @@
 # 🌐 Guia de Instalação e Acesso ao Projeto
 # 🛠️ Como Instalar e Acessar o Projeto
 # 1. Acessar o Projeto Hospedado
-# 🔗 O site está disponível publicamente e pode ser acessado diretamente através do seguinte link:
+# 🔗 O site está disponível publicamente e pode ser acessado diretamente através do seguinte link: https://teslaneto.github.io/uema.github.io/
 # Produções sobre Educação Especial no Maranhão
 # 2. Clonar o Repositório
 # 🗂️ Se desejar hospedar ou modificar o projeto localmente, faça o download do repositório:
